@@ -1,0 +1,3 @@
+Tipitaka = Suttas.
+Atthakatha = Comments.
+Tika = Subcomments.
